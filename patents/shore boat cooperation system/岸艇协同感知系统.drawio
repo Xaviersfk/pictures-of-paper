@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:51:26.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VsxqYYZOG70cdldSzeDN" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T09:05:25.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FORWYL_dK75M8qgBx8qV" version="20.5.1" type="github">
   <diagram id="G9yAzlsVScRHqYVT1LTl" name="第 1 页">
-    <mxGraphModel dx="1038" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="775" y="1032" width="10" height="15.38" as="geometry" />
         </mxCell>
         <mxCell id="w1FqssfnEPfsucPKbT6S-15" value="附属设备" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="935" y="1045.88" width="120" height="60" as="geometry" />
+          <mxGeometry x="937" y="1045.88" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1FqssfnEPfsucPKbT6S-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="318.62" y="1013" width="23.75" height="204" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="w1FqssfnEPfsucPKbT6S-44" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="551.11" y="1035.38" width="19.89" height="165.5" as="geometry" />
         </mxCell>
-        <mxCell id="w1FqssfnEPfsucPKbT6S-47" value="......" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w1FqssfnEPfsucPKbT6S-47" value="IMU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="624" y="1124.88" width="35" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="w1FqssfnEPfsucPKbT6S-48" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
@@ -70,11 +70,11 @@
         <mxCell id="w1FqssfnEPfsucPKbT6S-50" value="32线激光雷达" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1125.38" width="40" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="w1FqssfnEPfsucPKbT6S-57" value="相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w1FqssfnEPfsucPKbT6S-57" value="Basler&lt;br&gt;相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="519" y="1124.88" width="40" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="w1FqssfnEPfsucPKbT6S-59" value="相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="571" y="1125.38" width="40" height="51.5" as="geometry" />
+        <mxCell id="w1FqssfnEPfsucPKbT6S-59" value="GPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="571" y="1125.38" width="40" height="51.62" as="geometry" />
         </mxCell>
         <mxCell id="w1FqssfnEPfsucPKbT6S-60" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="772.61" y="1035.38" width="19.89" height="165.5" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="w1FqssfnEPfsucPKbT6S-63" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="806" y="1118.7600000000002" width="10" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="w1FqssfnEPfsucPKbT6S-64" value="数据控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w1FqssfnEPfsucPKbT6S-64" value="岸基端服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1125.38" width="40" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="w1FqssfnEPfsucPKbT6S-65" value="无人艇控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -96,6 +96,21 @@
         </mxCell>
         <mxCell id="w1FqssfnEPfsucPKbT6S-66" value="终端处理单元" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="792.5" y="1125.88" width="40" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TOfII7x4SXCp8jpoO6VZ-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="989.38" y="1053.43" width="21.97" height="129.4" as="geometry" />
+        </mxCell>
+        <mxCell id="TOfII7x4SXCp8jpoO6VZ-2" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045.25" y="1125.91" width="35" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TOfII7x4SXCp8jpoO6VZ-4" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995.37" y="1118.7600000000002" width="10" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TOfII7x4SXCp8jpoO6VZ-5" value="艇端工控机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="913.75" y="1128.16" width="40" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TOfII7x4SXCp8jpoO6VZ-7" value="岸端监控设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="982" y="1128.1599999999999" width="40" height="51.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
