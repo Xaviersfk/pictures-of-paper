@@ -1,14 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T14:35:20.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="A4qX4sdTagP41a2pOHIv" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T14:45:03.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GYeFRkPCdH6dEqtK-aRJ" version="20.5.1" type="github">
   <diagram id="SY1goNuAaiUfTzUY2XCb" name="第 1 页">
-    <mxGraphModel dx="898" dy="430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="5737" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="72zUx5wuOFbB_23FDIcq-1" value="&lt;div&gt;Sensors inputs from&amp;nbsp;&lt;/div&gt;&lt;div&gt;Virtual Reality&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="167" width="120" height="60" as="geometry" />
+        <mxCell id="72zUx5wuOFbB_23FDIcq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-3" target="72zUx5wuOFbB_23FDIcq-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="72zUx5wuOFbB_23FDIcq-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;IL&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="301" y="57" width="80" height="80" as="geometry" />
+          <mxGeometry x="301" y="54" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-9" target="72zUx5wuOFbB_23FDIcq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Using the serial structure that allows 6 degrees of freedom to obtain inertial terms (fictive wrench)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="240" y="396" width="202" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-10" target="72zUx5wuOFbB_23FDIcq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Calculation of cable tensions by using an optimization criterion and the dynamics equations (m – files)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="512" y="396" width="202" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-11" target="72zUx5wuOFbB_23FDIcq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-11" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;Virtual Reality Simulation loop update&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="512" y="281" width="202" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-12" target="72zUx5wuOFbB_23FDIcq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-12" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Sensors inputs from Virtual Reality&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="240" y="165" width="202" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-13" target="72zUx5wuOFbB_23FDIcq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-13" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Calculation of the error in the position, velocity, acceleration&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="240" y="281" width="202" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-14" target="72zUx5wuOFbB_23FDIcq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-14" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;Virtual Reality Simulation loop update&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="512" y="165" width="202" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-16" target="72zUx5wuOFbB_23FDIcq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-16" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;t = t+ Δt&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="512" y="49" width="202" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="72zUx5wuOFbB_23FDIcq-17" target="72zUx5wuOFbB_23FDIcq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zUx5wuOFbB_23FDIcq-17" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;Defined relative motion with respect to the path in Virtual Reality World&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="165" width="202" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
